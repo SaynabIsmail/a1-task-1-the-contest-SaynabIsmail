@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDMD The Contest</string>
+    <string name="numberadd">0</string>
+    <string name="score">score</string>
+    <string name="reset">reset</string>
+    <string name="steal">steal</string>
+</resources>
